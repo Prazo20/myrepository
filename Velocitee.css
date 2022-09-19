@@ -16,7 +16,7 @@
 
     font-family: sans-serif;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 400px;
     font-size: 30px;
     line-height: 36px;
 
@@ -101,9 +101,9 @@
     height: 50%;
     border: 1px solid black;
     margin: 100px auto;
-    background-image: url('./backgroundImages/background1.0x.jpg');
+    background-image: url("Images/background1.0x.jpg");
     background-size: 100%;
-    background-position: center;
+    background-size: 20% auto;
     background: no-repeat;
 }
 
